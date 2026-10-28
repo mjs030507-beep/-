@@ -1,0 +1,4 @@
+The joy of coding Python should be in seeing short
+concise, readable classes that express a lot of action
+in a small amount of clear code.
+Python is executable pseudocode.
